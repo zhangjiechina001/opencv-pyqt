@@ -1,4 +1,4 @@
 # opencv-pyqt
 下载项目，然后运行mainwindow文件就行了
 用到了QThread，opencv和pyqt5三个python包
-后端线程进行数据处理，主线程进行图片显示的结构，线程间是由pyqtSignal进行通讯
+后端线程进行数据处理，主线程进行图片显示，线程间是由pyqtSignal进行通讯
